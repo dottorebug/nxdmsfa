@@ -1,0 +1,23 @@
+# Nextcloud app
+/appinfo/app.php
+/appinfo/database.xml
+/3rdparty/
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local

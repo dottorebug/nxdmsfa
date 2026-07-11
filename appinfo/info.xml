@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>nxdmsfa</id>
+    <name>NXDMSFA</name>
+    <description>Host-agnostic PHP application for Nextcloud (and other hosts in the future).</description>
+    <version>1.0.0</version>
+    <license>AGPL-3.0-or-later</license>
+    <author>dottorebug</author>
+    <requirements>
+        <nextcloud min-version="34" max-version="34" />
+    </requirements>
+    <categories>
+        <category>tools</category>
+    </categories>
+    <website>https://github.com/dottorebug/nxdmsfa</website>
+    <bugs>https://github.com/dottorebug/nxdmsfa/issues</bugs>
+    <repository>https://github.com/dottorebug/nxdmsfa</repository>
+</info>
