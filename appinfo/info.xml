@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<info>
+    <id>nxdmsfa</id>
+    <name>NXDMSFA</name>
+    <summary>Minimal Hello World App</summary>
+    <description>Minimal Nextcloud 34 App</description>
+    <version>0.0.1</version>
+
+    <license>AGPL</license>
+
+    <namespace>NXDMSFA</namespace>
+
+    <author>Me</author>
+
+    <dependencies>
+        <nextcloud min-version="34" max-version="34"/>
+    </dependencies>
+
+    <navigation>
+        <name>NXDMSFA</name>
+        <route>nxdmsfa.page.index</route>
+        <order>10</order>
+    </navigation>
+</info>
