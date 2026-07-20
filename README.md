@@ -1,6 +1,8 @@
 # nxdmsfa
 
-
+läuft über 2 repositories:
+gitlab.com/nxdmsfa
+github.com/nxdmsfa
 
 ## Getting started
 
